@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+    <ModInfo>
+        <Name value="NierhainSPEnhancements" />
+        <Description value="Singleplayer enhancements for a more relaxed and/or beginner-friendly experience" />
+        <Author value="Nierhain"/>
+        <Version value="A18"/>
+        <Website value="https://www.nierhain.de/"/>
+    </ModInfo>
+</xml>
